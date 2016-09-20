@@ -1,2 +1,2 @@
 # srm
-Experimental idea for ORM for GO
+Experimental idea for an ORM for GO
